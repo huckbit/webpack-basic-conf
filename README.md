@@ -2,4 +2,4 @@
 
 Basic webpack configuration for js dev
 
-:runner: Runs Dev auto-reload :computer: server on port 7000
+:computer: Runs dev server auto reload on port 7000
