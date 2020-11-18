@@ -20,5 +20,8 @@
     "webpack-dev-server": "latest",
     "@babel/preset-env": "latest",
     "jest": "latest"
+  },
+  "dependencies": {
+    "latest": "^0.2.0"
   }
 }
